@@ -1,5 +1,4 @@
-# Insurance
-# SentimentAnalysis
+# Insurance Sentiment Analysis
 
 A Generative AI-powered sentiment analysis tool for insurance discussions using GPT-4o and RAG.
 
